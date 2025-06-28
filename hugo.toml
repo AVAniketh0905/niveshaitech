@@ -9,6 +9,41 @@ subtitle = "We Do Business Things"
 description = "A brief description of your business"
 email = "niveshaitechnologies@gmail.com"
 
+[params.hero]
+enable = true
+title = "Welcome to NiveshAI"
+subtitle = "We deliver value through simplicity and speed."
+content = "Smart tools. Reliable service. Built for growth."
+
+[params.hero.button]
+enable = true
+name = "Explore Products"
+url = "products"
+
+[params.search]
+enable = false
+
+[params.footer]
+copyright = "© 2025 Niveshai Tech. All rights reserved."
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "products"
+name = "Products"
+url = "/products/"
+weight = 2
+
+[[menu.main]]
+identifier = "team"
+name = "Team"
+url = "/team/"
+weight = 3
+
 [[params.social]]
 icon = "github"
 link = "https://github.com/AVAniketh0905"
