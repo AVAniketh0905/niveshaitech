@@ -1,0 +1,18 @@
+baseURL = "https://AVAniketh0905.github.io/"
+languageCode = "en-us"
+title = "NiveshAI"
+theme = "hugo-profile"
+
+[params]
+title = "NiveshAI"
+subtitle = "We Do Business Things"
+description = "A brief description of your business"
+email = "niveshaitechnologies@gmail.com"
+
+[[params.social]]
+icon = "github"
+link = "https://github.com/AVAniketh0905"
+
+[[params.social]]
+icon = "linkedin"
+link = "https://linkedin.com/in/<yourprofile>"
