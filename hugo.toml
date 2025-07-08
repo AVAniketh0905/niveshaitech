@@ -8,23 +8,21 @@ title = "NiveshAI"
 subtitle = "We Do Business Things"
 description = "A brief description of your business"
 email = "niveshaitechnologies@gmail.com"
+toc = false
+socialShare = false
+copyright = "Niveshai Tech"
 
 [params.hero]
 enable = true
 title = "Welcome to NiveshAI"
-subtitle = "We deliver value through simplicity and speed."
-content = "Smart tools. Reliable service. Built for growth."
+subtitle = "Intelligent Solutions for Impactful Results"
+content = "NiveshAI builds scalable, ML-powered forecasting tools that help QSR chains plan better, reduce waste, and improve operational efficiency."
 
 [params.hero.button]
-enable = true
-name = "Explore Products"
-url = "products"
-
-[params.search]
 enable = false
 
-[params.footer]
-copyright = "© 2025 Niveshai Tech. All rights reserved."
+[params.navbar]
+disableSearch = true
 
 [[menu.main]]
 identifier = "home"
@@ -33,21 +31,20 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
 identifier = "products"
 name = "Products"
 url = "/products/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "team"
 name = "Team"
 url = "/team/"
-weight = 3
+weight = 4
 
-[[params.social]]
-icon = "github"
-link = "https://github.com/AVAniketh0905"
-
-[[params.social]]
-icon = "linkedin"
-link = "https://linkedin.com/in/<yourprofile>"
