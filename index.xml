@@ -2,11 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NiveshAI</title>
-    <link>https://AVAniketh0905.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on NiveshAI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://AVAniketh0905.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 15:11:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Products</title>
+      <link>http://localhost:1313/products/</link>
+      <pubDate>Sat, 28 Jun 2025 15:11:25 +0530</pubDate>
+      <guid>http://localhost:1313/products/</guid>
+      <description>&lt;h2 id=&#34;forecraftai&#34;&gt;ForecraftAI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;ForecraftAI&lt;/strong&gt; is an AI-powered forecasting solution designed to help &lt;strong&gt;Quick Service Restaurant (QSR)&lt;/strong&gt; chains improve revenue planning, reduce inventory waste, and optimize staffing.&lt;/p&gt;&#xA;&lt;p&gt;Our system builds &lt;strong&gt;custom models&lt;/strong&gt; for each store or region using your historical data, enabling accurate, location-specific forecasts that evolve with changing trends.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Store-level AI models&lt;/strong&gt; trained on your data&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Weekly forecasts&lt;/strong&gt; delivered via dashboard or API&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monthly model retraining&lt;/strong&gt; to adapt to new trends&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CSV and API support&lt;/strong&gt; for data upload and integration&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multi-store dashboard&lt;/strong&gt; for regional and chain-wide visibility&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;business-impact&#34;&gt;Business Impact&lt;/h3&gt;&#xA;&lt;p&gt;ForecraftAI helps QSR brands:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Sat, 28 Jun 2025 15:11:25 +0530</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;h2 id=&#34;leadership-team&#34;&gt;Leadership Team&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-v-ajay-babu&#34;&gt;A V Ajay Babu&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chief Marketing Officer (CMO) &amp;amp; Co-Founder&lt;/strong&gt;&lt;br&gt;&#xA;MBA | Former Banker with over 25 years of experience in financial services, strategic planning, and business development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;a-sita-gayatri&#34;&gt;A Sita Gayatri&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chief Operating Officer (COO) &amp;amp; Co-Founder&lt;/strong&gt;&lt;br&gt;&#xA;MSc | Former Banker with 10 years of experience in technology and operations, with a focus on scaling data-driven solutions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technology-team&#34;&gt;Technology Team&lt;/h2&gt;&#xA;&lt;p&gt;Our in-house technology team includes &lt;strong&gt;AI and ML specialists&lt;/strong&gt; and &lt;strong&gt;full-stack software developers&lt;/strong&gt;, focused on delivering scalable, high-accuracy forecasting tools tailored for the QSR and food industries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Jun 2025 14:59:42 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-niveshai-technologies&#34;&gt;About NiveshAI Technologies&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;NiveshAI Technologies Pvt Ltd&lt;/strong&gt;, based in Hyderabad, provides AI and machine learning forecasting solutions designed specifically for the &lt;strong&gt;Quick Service Restaurant (QSR)&lt;/strong&gt; and &lt;strong&gt;food service&lt;/strong&gt; industries.&lt;/p&gt;&#xA;&lt;p&gt;We help businesses streamline operations through &lt;strong&gt;AI-driven predictive models&lt;/strong&gt; and &lt;strong&gt;IoT-enabled solutions&lt;/strong&gt;, enabling better decision-making and improved efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-focus&#34;&gt;Our Focus&lt;/h2&gt;&#xA;&lt;p&gt;We address core operational challenges faced by QSR chains:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Forecasting &lt;strong&gt;sales trends&lt;/strong&gt; for accurate revenue planning&lt;/li&gt;&#xA;&lt;li&gt;Predicting &lt;strong&gt;inventory requirements&lt;/strong&gt; to reduce wastage&lt;/li&gt;&#xA;&lt;li&gt;Aligning &lt;strong&gt;staffing needs&lt;/strong&gt; with demand&lt;/li&gt;&#xA;&lt;li&gt;Optimizing &lt;strong&gt;procurement and stock levels&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our models are customized for each location, retrained regularly, and delivered through a simple dashboard or API.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 28 Jun 2025 14:59:42 +0530</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h2&gt;&#xA;&lt;p&gt;Looking to improve forecasting and planning for your QSR operations?&lt;br&gt;&#xA;Reach out to learn how our AI-powered solutions can support your business.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;br&gt;&#xA;NiveshAI Technologies Pvt Ltd&lt;br&gt;&#xA;Hyderabad, Telangana, India&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;mailto:niveshaitechnologies@gmail.com&#34;&gt;niveshaitechnologies@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Business Inquiries:&lt;/strong&gt;&lt;br&gt;&#xA;For partnerships, demos, or support, please email us with your company name, contact details, and brief requirements.&lt;/p&gt;&#xA;&lt;p&gt;We typically respond within 1–2 business days.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
