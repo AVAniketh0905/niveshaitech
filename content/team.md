@@ -26,7 +26,7 @@ Our in-house technology team includes **AI and ML specialists** and **full-stack
 
 ## Advisor
 
-### Mr. Sidhanand Kukrety  XX, IFS (Retd.)  
+### Mr. Sidhanand Kukrety, IFS (Retd.)  
 **Advisor**  
 Retired APCCF, Telangana State Forest Department. Brings strategic governance experience and institutional insight to the team.
 
